@@ -1,0 +1,14 @@
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataAccess\obj\Debug\DataAccess.pdb

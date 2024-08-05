@@ -1,0 +1,17 @@
+﻿h2,p {
+    margin-bottom: 0 !important;
+}
+.btnAdd {
+    position: fixed;
+    bottom: 85%;
+    right: 20px;
+    width: 3rem !important;
+}
+.icon-info {
+    padding: .5rem;
+    font-size: .9rem;
+    border-radius: .5rem;
+    color: white;
+    cursor: pointer;
+}
+

@@ -1,0 +1,14 @@
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataLogic\obj\Debug\DataLogic.pdb

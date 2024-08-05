@@ -1,0 +1,6 @@
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\ANDRES\source\repos\Trayectos-CRUD\DataEntity\obj\Debug\DataEntity.pdb
